@@ -22,7 +22,7 @@ const NavbarComponent = () => {
   return (
     <Navbar isBordered variant={variant}>
       <Navbar.Brand>
-        <img width={36} height={36} src="./task.png" alt="Logo"/>
+        <img width={36} height={36} alt="Logo"/>
         <Text css={{ml:"$4"}} b color="inherit" hideIn="xs">
          TODO APP
         </Text>
