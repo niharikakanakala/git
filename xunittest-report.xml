@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" errors="0" time="11.374">
+  <testsuite name="main.test.js" errors="0" failures="0" skipped="0" timestamp="2022-03-14T08:39:42" time="10.84" tests="4">
+    <testcase classname="App" name="Require Webpage Call" time="1.031">
+    </testcase>
+    <testcase classname="App" name="should download CSV" time="2.103">
+    </testcase>
+    <testcase classname="App" name="should download JSON" time="3.027">
+    </testcase>
+    <testcase classname="Data Scrapping" name="Data Scrappring" time="3.023">
+    </testcase>
+  </testsuite>
+</testsuites>
